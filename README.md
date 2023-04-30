@@ -47,8 +47,11 @@ Your submission should consist of matches that have a high degree of confidence,
 Here is a sample submission (as a csv file) for the examples shown above, where the confidence scores are just examples and do not come from an actual calculation.
 
 ```
-这是一个多行文本方框。
-你可以在这里添加更多的文本。
+left_dataset, right_dataset, confidence_score
+47149, 59483, 1.0
+15883, 11, 0.99
+15925, 2206, 0.95
+89855, 72, 0.91
 ```
 
 The technical work that you are expected to conduct as part of this project is:
